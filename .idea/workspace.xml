@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="922d07ad-b458-4687-a8c5-43f10e60692b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/djangoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" />
-    </list>
+    <list default="true" id="922d07ad-b458-4687-a8c5-43f10e60692b" name="Changes" comment="manage.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AyushKarupakula"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/AyushKarupakula/djangoProject.git",
@@ -55,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject" />
@@ -97,11 +95,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725323445306</updated>
-      <workItem from="1725323449317" duration="322000" />
+      <workItem from="1725323449317" duration="630000" />
     </task>
+    <task id="LOCAL-00001" summary="manage.py">
+      <option name="closed" value="true" />
+      <created>1725323852229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725323852229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="manage.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="manage.py" />
   </component>
 </project>
